@@ -1,6 +1,7 @@
 # Final-project-Algorithm-Engineering
 
 The main objective of this work was to implement the Boruvka algorithm using the python programming language.
+
 Boruvka, like Kruscal and Prim, has the functionality of determining a spanning tree of minimum cost for any undirected, connected and edge-weighted graph.
 
 # Implementation Side 
